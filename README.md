@@ -68,25 +68,6 @@ Designed a secure messaging system that ensures confidentiality, integrity, auth
 * Encrypted File Sharing
 * Privacy-focused (Zero-knowledge server)
 
----
-
-## Proof of Concept
-
-### Secure Key Exchange
-
-![Key Exchange](images/keyexchange.png)
-
----
-
-### Message Encryption
-
-![Encryption](images/encryption.png)
-
----
-
-### Secure Communication (TLS)
-
-![TLS](images/tls.png)
 
 ---
 
